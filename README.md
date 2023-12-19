@@ -18,9 +18,10 @@ This repository is for practice of implementing well-known network architectures
 - Data augmentation: rotation, width shift, height shift, shearing, zooming
 
 ## Environment
-- MacOS High Sierra 10.13.1 for implementation / Ubuntu 14.04 for training
-- Python 3.6.3
-- Keras 2.1.2 (Tensorflow backend)
+- Windows 11 23H2 for implementation
+- Ubuntu 23.10 for training
+- Python 3.12.1
+- Keras 3.0.1 (Tensorflow backend)
 
 ## Evaluation
 The best single model and the best ensemble method achieve **99.76%** and **99.77%** on the test set respectively.
